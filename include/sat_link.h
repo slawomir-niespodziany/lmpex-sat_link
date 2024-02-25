@@ -1,3 +1,5 @@
+#pragma once 
+
 #include "abstract_link.h"
 
 using namespace std::string_literals;
